@@ -1,1 +1,2 @@
-# PCB-defect-detector
+PCB defect detector
+

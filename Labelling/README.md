@@ -9,5 +9,4 @@ This application enables the labelling of defect images extracted from Printed C
 - open browser to localhost
 - label images based on labels in legend (top right button)
 
-## SUPPORT
-If you need help modifying this application for your specific purposes please contact Sean McClure.
+

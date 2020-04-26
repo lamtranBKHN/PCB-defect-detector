@@ -9,4 +9,7 @@ This application enables the labelling of defect images extracted from Printed C
 - open browser to localhost
 - label images based on labels in legend (top right button)
 
+<<<<<<< HEAD:Labelling/README.md
 
+=======
+>>>>>>> d87dbd465776618da10f34920e63f81671141b73:Labelling/defect_turker-master/README.md
